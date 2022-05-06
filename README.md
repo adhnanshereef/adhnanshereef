@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adhnan Shereef T</h1>
 <h3 align="center">13-year-old Creative Full Stack Software Developer.</h3>
 
-> Hi, I am a 13-year-old Creative Full Stack Software Developer. I am still Studying. I am passionate about programming. I would like to learn and develop new technology. I thought Everything is possible if work for it. Currently, I have 3 projects.
+> Hi, I am a 13-year-old Creative Full Stack Software Developer. I am still Studying. I am passionate about programming. I would like to learn and develop new technology. I thought Everything is possible if work for it.
 
 <h1 align="center">Find Me On</h1>
 
@@ -53,60 +53,6 @@
 <br/>
 <br/>
 
-#### Projects
-
-- ##### Outlay
-  - The Outlay is a Money Management Application developed by a boy study in 8th standard. An application to easily and securely record your income and expenses.
-  - [View Project](https://www.outlay.gq)
-  - [Github Repository](https://github.com/AdhnanShereef/Outlay)
-  - [Outlay Web Repository](https://github.com/AdhnanShereef/Outlay-Money-Manager)
-  - ###### Used Items
-    > - Fluttter
-    > - Dart
-    > - HTML
-    > - CSS
-    > - JavaScript
-    > - Hive
-    > - Intl
-    > - Shared Preferences
-- ##### To Do App
-
-  - A To-Do App to list programs based on daily simple and securely.
-  - [Github Repository](https://github.com/AdhnanShereef/To_Do_App)
-  - ##### Used Items
-    > - Node.js
-    > - Handlebars
-    > - CSS
-    > - JavaScript
-    > - Bootstrap
-    > - JQuery
-    > - Express.js
-    > - MongoDB
-    > - Bcrypt
-
-- ##### Shopping Cart
-  - A simple e-commerce application
-  - [Github Repository](https://github.com/AdhnanShereef/Shopping_Cart)
-  - ##### Used Items
-    > - Node.js
-    > - Handlebars
-    > - CSS
-    > - JavaScript
-    > - Bootstrap
-    > - JQuery
-    > - MongoDB
-    > - Razorpay
-    > - Express.js
-    > - Bcrypt
-
-##### OLX with React
-
-- Duplication of OLX with React and Firebase
-- [Github Repository](https://github.com/AdhnanShereef/OLX_with_react)
-- ##### Used Items
-  > - React
-  > - Firebase
-  > - CSS
 
 ### Skills
 
