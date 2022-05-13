@@ -13,9 +13,6 @@
  <a href = "https://twitter.com/adhnanshereef"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width="50px" /><br> Twitter</a>
  <br>
   <br>
-<a href = "https://www.linkedin.com/in/adhnanshereef"><img src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" width="50px" /><br> LinkedIn</a>
- <br>
-  <br>
 <a href = "https://www.instagram.com/adhnanshereef"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/><br> Instagram</a>
   <br>
   <br>
