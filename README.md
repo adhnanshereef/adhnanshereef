@@ -1,8 +1,8 @@
 <p align="center" ><img src="https://www.adhnanshereef.gq/assets/images/logo.png"></p>
 <h1 align="center">Hi, I'm Adhnan Shereef T</h1>
-<h3 align="center">A legendary, developer, and programmer</h3>
+<h3 align="center">Genus Legendary Playboy</h3>
 
-> Hi, I am a legendary, developer, and programmer. I can learn everything that may be you can't. I am a legend. I thought Everything is possible if work.
+>Now i am a Programmer. I would like to learn and develop new technology. I thought " Everything is possible if work for it ".
 
 
 <br>
