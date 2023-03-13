@@ -1,4 +1,4 @@
-<p align="center" ><img src="https://www.adhnanshereef.gq/assets/images/logo.png"></p>
+<p align="center" ><img src="https://www.adhnanshereef.ga/assets/images/logo.png"></p>
 <h1 align="center">Hi, I'm Adhnan Shereef T</h1>
 <h3 align="center">Genus Legendary __________________</h3>
 
@@ -11,7 +11,7 @@
 
 <div>
  
-<a href = "https://www.adhnanshereef.gq"><img src="https://www.adhnanshereef.gq/assets/images/logo.png" width="40px"/></a>
+<a href = "https://www.adhnanshereef.ga"><img src="https://www.adhnanshereef.ga/assets/images/logo.png" width="40px"/></a>
 <a href = "https://www.adhnanshereef.gq"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
 <a href = "https://twitter.com/adhnanshereef"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" width="45px" /></a>
  <a href = "https://www.adhnanshereef.gq"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
