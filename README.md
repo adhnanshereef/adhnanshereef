@@ -1,4 +1,4 @@
-<p align="center" ><img src="https://www.adhnanshereef.ga/assets/images/logo.png"></p>
+<p align="center" ><img src="https://www.adhnan.me/assets/images/logo.png"></p>
 <h1 align="center">Hi, I'm Adhnan Shereef T</h1>
 <h3 align="center">Genus Legendary __________________</h3>
 
@@ -11,16 +11,16 @@
 
 <div>
  
-<a href = "https://www.adhnanshereef.ga"><img src="https://www.adhnanshereef.ga/assets/images/logo.png" width="40px"/></a>
-<a href = "https://www.adhnanshereef.gq"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
+<a href = "https://www.adhnan.me"><img src="https://www.adhnan.me/assets/images/logo.png" width="40px"/></a>
+<a href = "https://www.adhnan.me"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
 <a href = "https://twitter.com/adhnanshereef"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" width="45px" /></a>
- <a href = "https://www.adhnanshereef.gq"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
+ <a href = "https://www.adhnan.me"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
 <a href = "https://www.instagram.com/adhnanshereef"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40px"/></a>
- <a href = "https://www.adhnanshereef.gq"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
+ <a href = "https://www.adhnan.me"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
 <a href = "https://www.facebook.com/adhnanshereef"><img src="https://icones.pro/wp-content/uploads/2021/02/facebook-icone-f.png" width="40px"/></a>
- <a href = "https://www.adhnanshereef.gq"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
+ <a href = "https://www.adhnan.me"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
 <a href = "https://github.com/adhnanshereef"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="45px"/></a>
- <a href = "https://www.adhnanshereef.gq"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
+ <a href = "https://www.adhnan.me"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
 <a href = "https://dev.to/adhnanshereef"><img src="https://image.winudf.com/v2/image1/dG8uZGV2LmRldl9hbmRyb2lkX2ljb25fMTU1NjIzMzMzN18wNTE/icon.png?w=&fakeurl=1" width="45px"/></a>
  
 </div>
