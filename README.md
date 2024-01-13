@@ -42,7 +42,7 @@ Feel free to click on the icons to visit my profiles on each platform!
 
 ## About Me
 
-👨‍💻 I am Adhnan Shereef T, a passionate programmer and aspiring entrepreneur. My expertise lies in collaborative problem-solving and crafting innovative solutions. I firmly believe in the mantra, "Everything is Possible if we work for it." Learn more about me [here](#about).
+👨‍💻 I am Adhnan Shereef T, a passionate programmer and aspiring entrepreneur. My expertise lies in collaborative problem-solving and crafting innovative solutions. I firmly believe in the mantra, "Everything is Possible if we work for it." Learn more about me [here](https://www.adhnan.me/#about).
 
 ## Highlights
 
