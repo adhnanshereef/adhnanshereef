@@ -1,80 +1,107 @@
-<p align="center" ><img src="https://www.adhnan.me/assets/images/logo.png"></p>
-<h1 align="center">Hi, I'm Adhnan Shereef T</h1>
-<h3 align="center">Genus Legendary __________________</h3>
+<p align="center">
+  <img src="https://www.adhnan.me/assets/images/A.svg" alt="Adhnan Shereef T Logo" width="100" height="100">
+</p>
+<h1 align="center">Adhnan Shereef T</h1>
 
->Now i am a Programmer. I would like to learn and develop new technology. I thought " Everything is possible if work for it ".
+🌐 Connect with me on various social media platforms:
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" height="40px" width="40px">](https://twitter.com/adhnanshereef)
+[<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" height="40px" width="40px">](https://www.linkedin.com/in/adhnanshereef)
+[<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-square-512.png" height="40px" width="40px">](https://github.com/adhnanshereef)
+[<img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-png-full-colour-glyph.png" height="40px" width="40px">](https://www.instagram.com/adhnanshereef)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" height="40px" width="40px">](https://www.facebook.com/adhnanshereef)
+[<img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" height="40px" width="40px">](https://adhnanshereef.medium.com)
+[<img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" height="40px" width="40px">](https://dev.to/adhnanshereef)
+[<img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" height="40px" width="40px">](https://gitlab.com/adhnanshereef)
 
-<br>
-<br>
-<h1>Find Me On</h1>
+Feel free to click on the icons to visit my profiles on each platform!
 
-<div>
- 
-<a href = "https://www.adhnan.me"><img src="https://www.adhnan.me/assets/images/logo.png" width="40px"/></a>
-<a href = "https://www.adhnan.me"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
-<a href = "https://twitter.com/adhnanshereef"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" width="45px" /></a>
- <a href = "https://www.adhnan.me"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
-<a href = "https://www.instagram.com/adhnanshereef"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40px"/></a>
- <a href = "https://www.adhnan.me"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
-<a href = "https://www.facebook.com/adhnanshereef"><img src="https://icones.pro/wp-content/uploads/2021/02/facebook-icone-f.png" width="40px"/></a>
- <a href = "https://www.adhnan.me"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
-<a href = "https://github.com/adhnanshereef"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="45px"/></a>
- <a href = "https://www.adhnan.me"><img src="https://i.stack.imgur.com/Vkq2a.png" width="20px"/></a>
-<a href = "https://dev.to/adhnanshereef"><img src="https://image.winudf.com/v2/image1/dG8uZGV2LmRldl9hbmRyb2lkX2ljb25fMTU1NjIzMzMzN18wNTE/icon.png?w=&fakeurl=1" width="45px"/></a>
- 
-</div>
+## 📊 My Github Stats
 
-# Highlights
- ![](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/296286945/original/630b7481276cc5b3520915507e3f2b423eb48a66/create-a-static-website-for-the-cheapest-price-ever-you-saw.png)
- ### I will create a static website for the cheapest price ever you saw
- >You never gonna see this cheapest static website offer ever. This is the best and cheapest offer. I will create a static website with HTML and CSS, and javascript also for you at the cheapest price. Don't miss it. The offer closes soon.
- [Click here](https://www.fiverr.com/adhnanshereef/create-a-static-website-for-the-cheapest-price-ever-you-saw)
+<br/>
+<a href="https://github.com/AdhnanShereef/github-readme-stats"><img alt="Adhnan Shereef's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AdhnanShereef&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/AdhnanShereef/github-readme-stats"><img alt="Adhnan Shereef's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullpwn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
- <br>
-  <br>
+<br/>
+<br/>
+
 <p>
     <a href="https://github.com/AdhnanShereef/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adhnan Shereef's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AdhnanShereef&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
- <br>
-  <br>
 
-## 📊 My Github Stats
+## Table of Contents
 
-  <br/>
-    <a href="https://github.com/AdhnanShereef/github-readme-stats"><img alt="Adhnan Shereef's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AdhnanShereef&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AdhnanShereef/github-readme-stats"><img alt="Adhnan Shereef's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullpwn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+- [About Me](#about-me)
+- [Highlights](#highlights)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Usage](#usage)
+- [License](#license)
 
+## About Me
 
-<br/>
-<br/>
+👨‍💻 I am Adhnan Shereef T, a passionate programmer and aspiring entrepreneur. My expertise lies in collaborative problem-solving and crafting innovative solutions. I firmly believe in the mantra, "Everything is Possible if we work for it." Learn more about me [here](#about).
 
-![Skills](https://www.dignited.com/wp-content/uploads/2022/08/top10lan.jpg)
+## Highlights
 
+✨ Explore some of the highlighted sections on my portfolio:
 
-### Skills
-> Web Development(Django, Node.js),
-> 
-> App Development(Flutter, Dart), 
-> 
-> Game Development(Scratch, Unity),
->  
-> Languages(Python, Javascript, 
-> 
-> Html, CSS, c, c#, etc..),
-> 
->Framework(React, Next.js, Express, etc..) 
->
->etc........................!
->
->[For more info!](https://www.adhnanshereef.gq/#skills)
+- [Stem](https://stem.adhnan.me): A powerful app offering knowledge in Science, Technology, Engineering, and Mathematics.
+- [Inflow](https://inflow.adhnan.me/): Elevate your data flow with Inflow, seamlessly fetching APIs online and offline.
 
-<h2 align="center" > ❤ Views and Followers </h2>
-<p align="center" >
- <a href="https://github.com/AdhnanShereef/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AdhnanShereef&color=blueviolet">
-</a>
-<a href="https://github.com/AdhnanShereef?tab=followers"><img src="https://img.shields.io/github/followers/AdhnanShereef?label=Followers&style=social" alt="GitHub Badge"></a>
- </p>
+## Projects
+
+🚀 Check out my projects categorized by development and design:
+
+### Web Development
+
+- [Twitter with Django](https://github.com/adhnanshereef/twitter): A Django application resembling Twitter, with Google signup.
+- [Shopping Cart](https://github.com/AdhnanShereef/Shopping_Cart): A simple e-commerce application with Node.js, Handlebars, and MongoDB.
+- [Study Buddy](https://github.com/AdhnanShereef/Django): A Django project covering full Django concepts.
+- [To-Do App](https://github.com/AdhnanShereef/To_Do_App): A secure To-Do App using Node.js, Handlebars, and MongoDB.
+
+### Web Design
+
+- [Netflix](https://netflix-adn.netlify.app): A Netflix clone created with Next.js.
+- [YouTube (HTML & CSS)](https://github.com/AdhnanShereef/YouTube-HTML-and-CSS): A simple copy of YouTube using HTML and CSS.
+- [Instagram Home Page](https://responsive-instagram-home-page.netlify.app): A static copy of Instagram Home Page using HTML and CSS.
+- [OLX with React](https://github.com/AdhnanShereef/OLX_with_react): Duplication of OLX with React and Firebase.
+
+### Other
+
+- [Outlay](https://github.com/AdhnanShereef/Outlay): Money Management Application created with Flutter for recording income and expenses.
+
+## Skills
+
+🛠️ Explore the technologies and tools I'm proficient in:
+
+- Angular
+- Python
+- Django
+- Flutter
+- Dart
+- JavaScript
+- TypeScript
+- Node.js
+- React
+- Unity
+- C#
+- Markdown
+- C, Java
+- Git
+- Terminal
+- Video Editing
+
+## Usage
+
+🔧 Feel free to fork and modify this code for your personal portfolio. Make sure to replace my information with yours.
+
+## License
+
+📄 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Copyright (c) 2024 Adhnan Shereef T
