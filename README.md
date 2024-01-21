@@ -11,7 +11,6 @@
 [<img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-png-full-colour-glyph.png" height="40px" width="40px">](https://www.instagram.com/adhnanshereef)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" height="40px" width="40px">](https://www.facebook.com/adhnanshereef)
 [<img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" height="40px" width="40px">](https://adhnanshereef.medium.com)
-[<img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" height="40px" width="40px">](https://dev.to/adhnanshereef)
 [<img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" height="40px" width="40px">](https://gitlab.com/adhnanshereef)
 
 Feel free to click on the icons to visit my profiles on each platform!
