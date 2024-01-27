@@ -36,7 +36,6 @@ Feel free to click on the icons to visit my profiles on each platform!
 - [Highlights](#highlights)
 - [Projects](#projects)
 - [Skills](#skills)
-- [Usage](#usage)
 - [License](#license)
 
 ## About Me
@@ -92,10 +91,6 @@ Feel free to click on the icons to visit my profiles on each platform!
 - Git
 - Terminal
 - Video Editing
-
-## Usage
-
-🔧 Feel free to fork and modify this code for your personal portfolio. Make sure to replace my information with yours.
 
 ## License
 
