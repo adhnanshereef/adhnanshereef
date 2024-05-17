@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.adhnan.me/assets/images/A.svg" alt="Adhnan Shereef T Logo" width="100" height="100">
+  <img src="https://adhnan.netlify.app/assets/images/A.svg" alt="Adhnan Shereef T Logo" width="100" height="100">
 </p>
 <h1 align="center">Adhnan Shereef T</h1>
 
