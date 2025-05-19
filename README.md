@@ -10,7 +10,7 @@
 [<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-square-512.png" height="40px" width="40px">](https://github.com/adhnanshereef)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="40px" width="40px">](https://www.instagram.com/adhnanshereef)
 [<img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" height="40px" width="40px">](https://adhnanshereef.medium.com)
-[<img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" height="40px" width="40px">](https://gitlab.com/adhnanshereef)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/free-gitlab-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282507.png?f=webp" height="40px" width="40px">](https://gitlab.com/adhnanshereef)
 
 Feel free to click on the icons to visit my profiles on each platform!
 
