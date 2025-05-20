@@ -46,6 +46,8 @@ Feel free to click on the icons to visit my profiles on each platform!
 
 ✨ Explore some of the highlighted sections on my portfolio:
 
+- [Miscellaneous](https://miscellaneous.adhnan.tech): Explore various interactive web tools including quote generators, soundboard, color palette maker and more
+- [Virtual Painter](https://vpainter.adhnan.tech): 🎨 Introducing Virtual Painter Draw on screen using just your hand gestures — no mouse, no touchscreen!
 - [Social Media](https://github.com/adhnanshereef/socialmedia): A Social media app created using Django for backend and Angular for frontend
 - [Stem](https://s-t-e-m.netlify.app): A powerful app offering knowledge in Science, Technology, Engineering, and Mathematics.
 - [Inflow](https://i-inflow-i.netlify.app/): Elevate your data flow with Inflow, seamlessly fetching APIs online and offline.
