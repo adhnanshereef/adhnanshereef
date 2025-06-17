@@ -46,6 +46,7 @@ Feel free to click on the icons to visit my profiles on each platform!
 
 ✨ Explore some of the highlighted sections on my portfolio:
 
+- [SpaceCode](https://spacecode.adhnan.tech/): SpaceCode is a modern, professional online code compiler and IDE supporting 23+ programming languages.
 - [Miscellaneous](https://miscellaneous.adhnan.tech): Explore various interactive web tools including quote generators, soundboard, color palette maker and more
 - [Virtual Painter](https://vpainter.adhnan.tech): 🎨 Introducing Virtual Painter Draw on screen using just your hand gestures — no mouse, no touchscreen!
 - [Social Media](https://github.com/adhnanshereef/socialmedia): A Social media app created using Django for backend and Angular for frontend
