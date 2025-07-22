@@ -43,17 +43,17 @@
 ## Table of Contents
 
 1. [🌟 Currently Featuring](#currently-featuring)
-2. [📊 GitHub Stats](#📊-github-stats)
-3. [👨‍💻 About Me](#👨‍💻-about-me)
-4. [💻 Services](#💻-services)
-5. [✨ Highlights](#✨-highlights)
-6. [🚀 Projects](#🚀-projects)
-7. [🎿 Skills & Technologies](#️🎿-skills-&-technologies)
-8. [📄 License](#📄-license)
+2. [📊 GitHub Stats](#github-stats)
+3. [👨‍💻 About Me](#about-me)
+4. [💻 Services](#services)
+5. [✨ Highlights](#highlights)
+6. [🚀 Projects](#projects)
+7. [🎿 Skills & Technologies](#️skills-&-technologies)
+8. [📄 License](#license)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am **Adhnan Shereef T**, a passionate programmer and aspiring entrepreneur, adept at unraveling complex challenges. My expertise lies in collaborative problem-solving and crafting innovative solutions. Dedicated to staying at the forefront of technology, I firmly believe in the mantra:
 
@@ -63,11 +63,11 @@ I am **Adhnan Shereef T**, a passionate programmer and aspiring entrepreneur, ad
 
 ---
 
-## 💻 Services
+## Services
 
 I offer professional services in the following areas:
 
-### 🌐 Web Development
+### Web Development
 Professional web development services offering custom solutions for your online presence. Specializing in responsive design, modern frameworks, and scalable applications using technologies like **Angular**, **React**, **Django**, and **Node.js**.
 
 ### 🎨 Poster & Photo Design  
@@ -77,7 +77,7 @@ Creative poster and photo design services for your business needs. Professional 
 
 ---
 
-## ✨ Highlights
+## Highlights
 
 Explore the featured applications and tools I've developed:
 
@@ -124,7 +124,7 @@ Smooth, curved bottle design created with Spline — showcasing 3D modeling and 
 
 ---
 
-## 🚀 Projects
+## Projects
 
 Explore my diverse portfolio of projects categorized by technology and purpose:
 
@@ -167,7 +167,7 @@ An interactive 3D bottle design created with **Spline**, showcasing advanced 3D 
 
 ---
 
-## 🎿 Skills & Technologies
+## Skills & Technologies
 
 I'm proficient in a wide range of technologies and tools across different domains:
 
@@ -225,7 +225,7 @@ I'm proficient in a wide range of technologies and tools across different domain
 
 ---
 
-## 📄 License
+## License
 
 📄 This project is licensed under the [MIT License](https://github.com/adhnanshereef/adhnan/blob/main/LICENSE).
 
