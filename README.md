@@ -110,4 +110,4 @@ Feel free to click on the icons to visit my profiles on each platform!
 
 ---
 
-Copyright (c) 2024 Adhnan Shereef T
+Copyright (c) 2025 Adhnan Shereef T
