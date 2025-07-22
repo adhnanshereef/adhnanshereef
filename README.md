@@ -17,7 +17,7 @@
 [<img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" height="40px" width="40px">](https://adhnanshereef.medium.com)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/free-gitlab-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282507.png?f=webp" height="40px" width="40px">](https://gitlab.com/adhnanshereef)
 
-## 🌟 Currently Featuring
+## Currently Featuring
 
 ### Orion - Virtual Assistant
 🤖 **Orion** is an intelligent, privacy-focused virtual assistant—built from the ground up for speed, flexibility, and complete offline use. Unlike typical assistants that rely on the cloud, Orion runs entirely on my local system, helping me manage tasks, control my workspace, and stay productive—all while keeping my data 100% private.
@@ -42,7 +42,7 @@
 
 ## Table of Contents
 
-1. [🌟 Currently Featuring](#🌟-currently-featuring)
+1. [🌟 Currently Featuring](#currently-featuring)
 2. [📊 GitHub Stats](#📊-github-stats)
 3. [👨‍💻 About Me](#👨‍💻-about-me)
 4. [💻 Services](#💻-services)
