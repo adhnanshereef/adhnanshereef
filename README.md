@@ -232,7 +232,7 @@ I'm proficient in a wide range of technologies and tools across different domain
 ---
 
 <p align="center">
-  <strong>Copyright © 2025 Adhnan Shereef T</strong><br>
+  <strong>Copyright © 2026 Adhnan Shereef T</strong><br>
   <em>Made with ❤️ and lots of ☕</em>
 </p>
 
