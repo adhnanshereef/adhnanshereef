@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://adhnan.tech/assets/images/A.svg" alt="Adhnan Shereef T Logo" width="100" height="100">
+  <img src="https://adhnan.me/assets/images/A.svg" alt="Adhnan Shereef T Logo" width="100" height="100">
 </p>
 <h1 align="center">Adhnan Shereef T</h1>
 
@@ -17,15 +17,17 @@
 [<img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" height="40px" width="40px">](https://adhnanshereef.medium.com)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/free-gitlab-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282507.png?f=webp" height="40px" width="40px">](https://gitlab.com/adhnanshereef)
 
-## Currently Featuring
+## 🌟 Currently Featuring
 
 ### Orion - Virtual Assistant
 🤖 **Orion** is an intelligent, privacy-focused virtual assistant—built from the ground up for speed, flexibility, and complete offline use. Unlike typical assistants that rely on the cloud, Orion runs entirely on my local system, helping me manage tasks, control my workspace, and stay productive—all while keeping my data 100% private.
 
-[📹 **Check Out Demo**](https://www.instagram.com/reel/DL7eMhSKDCB/) | [🌐 **Visit Portfolio**](https://adhnan.tech/)
+[📹 **Check Out Demo**](https://www.instagram.com/reel/DL7eMhSKDCB/) | [🌐 **Visit Portfolio**](https://adhnan.me/)
+
+---
 
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <br/>
 <a href="https://github.com/AdhnanShereef/github-readme-stats"><img alt="Adhnan Shereef's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AdhnanShereef&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -42,76 +44,76 @@
 
 ## Table of Contents
 
-1. [🌟 Currently Featuring](#currently-featuring)
-2. [📊 GitHub Stats](#github-stats)
-3. [👨‍💻 About Me](#about-me)
-4. [💻 Services](#services)
-5. [✨ Highlights](#highlights)
-6. [🚀 Projects](#projects)
-7. [🎿 Skills & Technologies](#️skills-&-technologies)
-8. [📄 License](#license)
+1. [🌟 Currently Featuring](#🌟-currently-featuring)
+2. [📊 GitHub Stats](#📊-github-stats)
+3. [👨‍💻 About Me](#👨‍💻-about-me)
+4. [💻 Services](#💻-services)
+5. [✨ Highlights](#✨-highlights)
+6. [🚀 Projects](#🚀-projects)
+7. [🎿 Skills & Technologies](#️🎿-skills-&-technologies)
+8. [📄 License](#📄-license)
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I am **Adhnan Shereef T**, a passionate programmer and aspiring entrepreneur, adept at unraveling complex challenges. My expertise lies in collaborative problem-solving and crafting innovative solutions. Dedicated to staying at the forefront of technology, I firmly believe in the mantra:
 
 > **"Everything is Possible if we work for it"**
 
-🌍 **[Learn more about me](https://adhnan.tech/#about)**
+🌍 **[Learn more about me](https://adhnan.me/#about)**
 
 ---
 
-## Services
+## 💻 Services
 
 I offer professional services in the following areas:
 
-### Web Development
+### 🌐 Web Development
 Professional web development services offering custom solutions for your online presence. Specializing in responsive design, modern frameworks, and scalable applications using technologies like **Angular**, **React**, **Django**, and **Node.js**.
 
 ### 🎨 Poster & Photo Design  
 Creative poster and photo design services for your business needs. Professional editing, custom illustrations, and eye-catching layouts that bring your ideas to life with modern design principles.
 
-**[Get a Quote](https://adhnan.tech/#contact)**
+**[Get a Quote](https://adhnan.me/#contact)**
 
 ---
 
-## Highlights
+## ✨ Highlights
 
 Explore the featured applications and tools I've developed:
 
-### 📱 [Day](https://day.adhnan.tech/) - Personal Productivity App
+### 📱 [Day](https://day.adhnan.me/) - Personal Productivity App
 Day is your ultimate personal productivity app! Seamlessly track your finances, manage daily tasks, routines, and organize notes all in one place.
-- **[📱 Try Day](https://day.adhnan.tech/)**
-- **[⬇️ Download Day](https://day.download.adhnan.tech/)**
+- **[📱 Try Day](https://day.adhnan.me/)**
+- **[⬇️ Download Day](https://day.download.adhnan.me/)**
 
-### 💻 [SpaceCode](https://spacecode.adhnan.tech/) - Online Code Compiler & IDE
+### 💻 [SpaceCode](https://spacecode.adhnan.me/) - Online Code Compiler & IDE
 SpaceCode is a modern, professional online code compiler and IDE supporting 23+ programming languages with a sleek interface.
-- **[🚀 Try SpaceCode](https://spacecode.adhnan.tech/)**
+- **[🚀 Try SpaceCode](https://spacecode.adhnan.me/)**
 - **[📂 GitHub Repository](https://github.com/adhnanshereef/SpaceCode)**
 
-### 🛠️ [Miscellaneous](https://miscellaneous.adhnan.tech/) - Interactive Web Tools
+### 🛠️ [Miscellaneous](https://miscellaneous.adhnan.me/) - Interactive Web Tools
 Explore various interactive web tools including quote generators, soundboard, color palette maker, and more useful utilities.
-- **[🎲 Try Tools](https://miscellaneous.adhnan.tech/)**
+- **[🎲 Try Tools](https://miscellaneous.adhnan.me/)**
 - **[📂 GitHub Repository](https://github.com/adhnanshereef/Miscellaneous)**
 
-### 🎨 [Virtual Painter](https://vpainter.adhnan.tech/) - Gesture-Based Drawing
+### 🎨 [Virtual Painter](https://vpainter.adhnan.me/) - Gesture-Based Drawing
 Draw on screen using just your hand gestures — no mouse, no touchscreen required! An innovative AI-powered drawing experience.
-- **[✨ Try Virtual Painter](https://vpainter.adhnan.tech/)**
+- **[✨ Try Virtual Painter](https://vpainter.adhnan.me/)**
 
 ### 🏫 [GHSS Vaduvanchal](https://www.ghssvaduvanchal.in/) - School Website
 Professional website for GHSS Vaduvanchal, a school in Wayanad, Kerala, featuring modern design and comprehensive school information.
 - **[🏫 Visit Website](https://www.ghssvaduvanchal.in/)**
 
-### 📚 [Stem](https://stem.adhnan.tech/) - Educational Platform
+### 📚 [Stem](https://stem.adhnan.me/) - Educational Platform
 A powerful educational app offering comprehensive knowledge in Science, Technology, Engineering, and Mathematics.
-- **[📖 Visit Stem](https://stem.adhnan.tech/)**
+- **[📖 Visit Stem](https://stem.adhnan.me/)**
 - **[📂 GitHub Repository](https://github.com/adhnanshereef/stem)**
 
-### 🔌 [Inflow](https://inflow.adhnan.tech/) - API Management Tool
+### 🔌 [Inflow](https://inflow.adhnan.me/) - API Management Tool
 Elevate your data flow with Inflow: Seamlessly fetch APIs online and offline. Discover the power of effortless data retrieval.
-- **[⚡ Try Inflow](https://inflow.adhnan.tech/)**
+- **[⚡ Try Inflow](https://inflow.adhnan.me/)**
 - **[📂 GitHub Repository](https://github.com/adhnanshereef/inflow)**
 
 ### 💬 [Social Media App](https://github.com/adhnanshereef/socialmedia)
@@ -124,7 +126,7 @@ Smooth, curved bottle design created with Spline — showcasing 3D modeling and 
 
 ---
 
-## Projects
+## 🚀 Projects
 
 Explore my diverse portfolio of projects categorized by technology and purpose:
 
@@ -167,7 +169,7 @@ An interactive 3D bottle design created with **Spline**, showcasing advanced 3D 
 
 ---
 
-## Skills & Technologies
+## 🎿 Skills & Technologies
 
 I'm proficient in a wide range of technologies and tools across different domains:
 
@@ -225,7 +227,7 @@ I'm proficient in a wide range of technologies and tools across different domain
 
 ---
 
-## License
+## 📄 License
 
 📄 This project is licensed under the [MIT License](https://github.com/adhnanshereef/adhnan/blob/main/LICENSE).
 
@@ -237,7 +239,7 @@ I'm proficient in a wide range of technologies and tools across different domain
 </p>
 
 <p align="center">
-  <a href="https://adhnan.tech/">🌐 Portfolio</a> • 
-  <a href="mailto:contact@adhnan.tech">📧 Email</a> • 
+  <a href="https://adhnan.me/">🌐 Portfolio</a> • 
+  <a href="mailto:contact@adhnan.me">📧 Email</a> • 
   <a href="https://twitter.com/adhnanshereef">🐦 Twitter</a>
 </p>
