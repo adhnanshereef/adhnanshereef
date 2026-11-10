@@ -218,18 +218,16 @@ I'm proficient in a wide range of technologies and tools across different domain
 
 ## 🤝 Contributing & Usage
 
-🔧 Feel free to fork and modify any of my projects for your personal or educational use. Please make sure to:
-
-1. **Star** the repositories you find useful ⭐
-2. **Credit** the original work when using code snippets
-3. **Follow** me for updates on new projects and improvements
-4. **Contribute** by reporting issues or suggesting enhancements
+🔧 You are welcome to view this repository. Please do not copy, use, modify,
+reproduce, distribute, publish, or repurpose its contents—including this
+README, code, images, branding, or information.
 
 ---
 
 ## 📄 License
 
-📄 This project is licensed under the [MIT License](https://github.com/adhnanshereef/adhnan/blob/main/LICENSE).
+📄 This repository is available for viewing only under the
+[View-Only License](https://github.com/adhnanshereef/adhnanshereef/blob/main/LICENSE).
 
 ---
 
